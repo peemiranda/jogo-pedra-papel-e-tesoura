@@ -26,7 +26,7 @@ while True:
 
     elif Jogador == "tesoura":
         if Computador == "pedra":
-            print("Computador: ", Computador)
+            print("Computador!: ", Computador)
             print("Jogador: ", Jogador)
             print("Você perdeu!")
         if Computador == "papel":
